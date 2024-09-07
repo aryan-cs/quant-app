@@ -29,7 +29,8 @@ Good luck!
 
 ## Concept
 
-The program systematically generates all possible cycles from the starting currency type to intermediary currencies and back to the original currency type. It can be expanded to include more currency types and rates.
+The program systematically generates all possible cycles from the starting currency type to intermediary currencies and back to the original currency type. It then determines the final value by calculating through the conversion chain and returns the highest arbitrage opportunity.
+It can be expanded to include more currency types and rates.
 
 
 ## Authors
